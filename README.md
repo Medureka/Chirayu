@@ -1,2 +1,2 @@
 # Chirayu
-Virtual Doctor For Your Simplifying the Lives of Every Stakeholder in Medical Domain 
+Virtual Doctor For Simplifying the Lives of Every Stakeholder in Medical Domain 
